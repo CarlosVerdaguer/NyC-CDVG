@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-DATA_URL='citibike-tripdata.csv'
+DATA_URL='Clase4\citibike-tripdata.csv'
 
 #CONFIGURACIÓN DEL SITIO
 st.title('Caso de Citibke Trip Data')
